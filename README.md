@@ -10,4 +10,5 @@
 2. ...
    
 
-![Иллюстрация к проекту](https://github.com/Extrem-umka/picture/blob/main/img/simba_38480457_orig_.jpeg)
+![Иллюстрация к проекту](https://github.com/Extrem-umka/picture/blob/main/img/simba_38480457_orig_.jpeg?raw=true)
+
